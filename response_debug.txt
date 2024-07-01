@@ -1,0 +1,41 @@
+Analisando a lista de conteúdos e comparando com as orientações da BNCC para o 4º ano do Ensino Fundamental em Matemática, podemos fazer algumas observações e sugestões de ajustes:
+
+1. Os conteúdos listados parecem estar em conformidade com o que é esperado para o 4º ano, abordando operações fundamentais, números racionais, medidas de tempo, entre outros.
+
+2. Conteúdos adicionais que poderiam ser incluídos, de acordo com a BNCC, são:
+   - Geometria: formas geométricas espaciais (cubos, cilindros, cones, esferas), elementos de figuras geométricas (vértices, arestas, faces), simetria.
+   - Medidas: unidades de medida de massa e capacidade, conversão de medidas.
+
+3. A reorganização da lista poderia considerar a sequência didática que parte do concreto para o abstrato e do simples para o complexo, agrupando conteúdos de natureza semelhante.
+
+4. A coluna 'titulo_anterior' parece estar adequada em sua maioria, mas algumas adições podem ser feitas para garantir a progressão adequada do aprendizado.
+
+5. e 6. Com base nas análises, segue um novo documento com sugestões de conhecimentos prévios a serem inseridos na coluna 'titulo_anterior':
+
+```
+titulo,disciplina,ano,titulo_anterior
+Divisão - Problemas,Matemática,4,Multiplicação; Divisão: Situações problemas com agrupamentos
+Cálculo mental,Matemática,4,Adição por reagrupamento; Multiplicação com dois algarismos; Multiplicação por 10, 100 e 1.000; Multiplicação
+Multiplicação com dois algarismos,Matemática,4,Adição por reagrupamento; Multiplicação
+Múltiplos,Matemática,4,Multiplicação por 10, 100 e 1.000; Multiplicação com dois algarismos; Cálculo mental; Multiplicação
+Cálculos com horas e minutos,Matemática,4,Medidas de tempo; Adição por reagrupamento
+A dezena de milhar,Matemática,4,O milhar; Números por extenso e comparações; Ordenação e comparação de números na reta numérica
+Calculando preços,Matemática,4,Multiplicação por 10, 100 e 1.000; Multiplicação com dois algarismos; Cálculo mental; Divisão - Problemas; Divisão exata e não exata
+"Multiplicação por 10, 100 e 1.000",Matemática,4,Multiplicação com dois algarismos; Multiplicação
+Situações-problemas com as quatro operações,Matemática,4,Multiplicação por 10, 100 e 1.000; Multiplicação com dois algarismos; Cálculo mental; Divisão - Problemas; Divisão exata e não exata; Adição por reagrupamento; Multiplicação; Divisão: Situações problemas com agrupamentos
+Multiplicação e Divisão na prática,Matemática,4,Multiplicação por 10, 100 e 1.000; Multiplicação com dois algarismos; Cálculo mental; Divisão - Problemas; Divisão exata e não exata; Divisão por estimativas - cálculo mental; Multiplicação; Divisão: Situações problemas com agrupamentos
+Multiplicação na reta numérica,Matemática,4,Multiplicação por 10, 100 e 1.000; Multiplicação com dois algarismos; Cálculo mental; Múltiplos; Multiplicação; Ordenação e comparação de números na reta numérica
+Divisão por estimativas - cálculo mental,Matemática,4,Divisão exata e não exata; Divisão: Situações problemas com agrupamentos; Multiplicação
+Divisão exata e não exata,Matemática,4,Multiplicação com dois algarismos; Divisão - Problemas; Divisão: Situações problemas com agrupamentos
+Operações inversas,Matemática,4,Multiplicação e Divisão na prática; Multiplicação; Divisão: Situações problemas com agrupamentos
+Operações fundamentais com números naturais,Matemática,4,Propriedades da igualdade; Adição por reagrupamento; Multiplicação; Divisão: Situações problemas com agrupamentos
+Números racionais e o Sistema Monetário,Matemática,4,Fração de uma quantidade; Frações Unitárias; Medidas de tempo; Cálculo mental
+Propriedades da igualdade,Matemática,4,Adição por reagrupamento
+Áreas de figuras em malhas quadriculadas,Matemática,4,Multiplicação com dois algarismos; Trajeto em malha quadriculada
+Tratamento dos dados de pesquisa,Matemática,4,Estatística; Organização de dados em tabelas e gráficos
+Fração de uma quantidade,Matemática,4,Frações Unitárias; Multiplicação com dois algarismos; Divisão exata e não exata
+```
+
+7. Os conteúdos da coluna 'titulo_anterior' são essenciais para a progressão do aprendizado e parecem estar adequados com as adições sugeridas.
+
+8. e 9. As sugestões de alteração foram feitas com base nos conteúdos presentes no documento e na BNCC, levando em conta a sequência didática e os conhecimentos prévios necessários para cada conteúdo.
