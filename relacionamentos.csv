@@ -1,0 +1,402 @@
+id,titulo,disciplina,ano,status,id_anterior,titulo_anterior,disciplina_anterior,ano_anterior,status_anterior
+5,Organizando nomes próprios,L. Portuguesa,1,1,20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1
+5,Organizando nomes próprios,L. Portuguesa,1,1,10018,As vogais,L. Portuguesa,1,1
+5,Organizando nomes próprios,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+6,Receitas e outras listas contextualizadas,L. Portuguesa,1,1,106,Jogos com regras,L. Portuguesa,1,1
+9,Hipo e Hipersegmentação,L. Portuguesa,2,1,10025,Estrutura das sílabas,L. Portuguesa,2,1
+9,Hipo e Hipersegmentação,L. Portuguesa,2,1,20559,As sílabas por dentro das palavras,L. Portuguesa,1,1
+9,Hipo e Hipersegmentação,L. Portuguesa,2,1,20630,Sílabas e mais sílabas,L. Portuguesa,1,1
+9,Hipo e Hipersegmentação,L. Portuguesa,2,1,20769,Construindo o nome das coisas,L. Portuguesa,1,1
+10,Regularidades ortográficas,L. Portuguesa,2,1,54,Letras     F - V -  T - D - P -  B,L. Portuguesa,2,1
+10,Regularidades ortográficas,L. Portuguesa,2,1,20760,Letra P,L. Portuguesa,1,1
+10,Regularidades ortográficas,L. Portuguesa,2,1,20762,Letra T,L. Portuguesa,1,1
+10,Regularidades ortográficas,L. Portuguesa,2,1,20761,Letra L - 20761,L. Portuguesa,1,1
+11,Sinônimos e antônimos,L. Portuguesa,2,1,20634,Sinônimo e antônimo,L. Portuguesa,1,1
+16,Recursos expressivos nos textos poéticos,L. Portuguesa,5,1,10075,O poema e sua estrutura,L. Portuguesa,4,1
+17,Números naturais - 0 a 50,Matemática,1,1,20,Números no cotidiano,Matemática,1,1
+17,Números naturais - 0 a 50,Matemática,1,1,41,Números naturais - 0 a 10,Matemática,1,1
+18,Coleções - 0 a 20,Matemática,1,1,17,Números naturais - 0 a 50,Matemática,1,1
+19,Descobrindo a adição,Matemática,1,1,20129,Agrupamento de 10,Matemática,1,1
+19,Descobrindo a adição,Matemática,1,1,50,Unidade e dezena,Matemática,1,1
+21,Formas geométricas,Matemática,2,1,48,Formas geométricas planas,Matemática,1,1
+24,Multiplicação,Matemática,3,1,71,Adição por reagrupamento,Matemática,3,1
+24,Multiplicação,Matemática,3,1,20244,Multiplicação - organização retangular,Matemática,2,1
+25,Unidades de medida - metro e quilograma,Matemática,3,1,24,Multiplicação,Matemática,3,1
+27,Porcentagem,Matemática,5,1,20362,Multiplicação e divisão de números racionais,Matemática,5,1
+27,Porcentagem,Matemática,5,1,20269,Divisão exata e não exata,Matemática,4,1
+27,Porcentagem,Matemática,5,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+28,Fração de uma quantidade,Matemática,5,1,20152,Frações Unitárias,Matemática,4,1
+30,Palavras com F/V - T/D - P/B - C/G,L. Portuguesa,4,1,10032,Uso de P e B,L. Portuguesa,3,1
+31,Sílabas tônica e átona,L. Portuguesa,3,1,20231,Separação silábica,L. Portuguesa,3,1
+31,Sílabas tônica e átona,L. Portuguesa,3,1,10025,Estrutura das sílabas,L. Portuguesa,2,1
+34,Divisão - Problemas,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+35,Ordens e classes,Matemática,3,1,52,Números por extenso e comparações,Matemática,3,1
+35,Ordens e classes,Matemática,3,1,68,Valor absoluto e relativo,Matemática,3,1
+35,Ordens e classes,Matemática,3,1,10027,Sistema de numeração decimal,Matemática,2,1
+35,Ordens e classes,Matemática,3,1,67,Decomposição numérica - até 100,Matemática,2,1
+40,Subtração,Matemática,1,1,50,Unidade e dezena,Matemática,1,1
+41,Números naturais - 0 a 10,Matemática,1,1,20,Números no cotidiano,Matemática,1,1
+42,Números pares e ímpares,Matemática,1,1,17,Números naturais - 0 a 50,Matemática,1,1
+45,Classificação de sílabas quanto à tonicidade,L. Portuguesa,3,1,31,Sílabas tônica e átona,L. Portuguesa,3,1
+45,Classificação de sílabas quanto à tonicidade,L. Portuguesa,3,1,20231,Separação silábica,L. Portuguesa,3,1
+45,Classificação de sílabas quanto à tonicidade,L. Portuguesa,3,1,10025,Estrutura das sílabas,L. Portuguesa,2,1
+46,Substantivos primitivos e derivados,L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+50,Unidade e dezena,Matemática,1,1,17,Números naturais - 0 a 50,Matemática,1,1
+51,Ordens Crescente e decrescente,Matemática,2,1,10089,Antecessor e sucessor,Matemática,2,1
+51,Ordens Crescente e decrescente,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+51,Ordens Crescente e decrescente,Matemática,2,1,17,Números naturais - 0 a 50,Matemática,1,1
+52,Números por extenso e comparações,Matemática,3,1,20246,O milhar,Matemática,3,1
+53,Adição,Matemática,2,1,20089,Composição e decomposição,Matemática,2,1
+53,Adição,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+53,Adição,Matemática,2,1,20138,Material Dourado: Adição e Subtração,Matemática,2,1
+54,Letras     F - V -  T - D - P -  B,L. Portuguesa,2,1,20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1
+54,Letras     F - V -  T - D - P -  B,L. Portuguesa,2,1,10037,As consoantes,L. Portuguesa,1,1
+54,Letras     F - V -  T - D - P -  B,L. Portuguesa,2,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+55,Acentuação: agudo e circunflexo,L. Portuguesa,3,1,31,Sílabas tônica e átona,L. Portuguesa,3,1
+58,Artigos : definidos e indefinidos,L. Portuguesa,4,0,20219,Artigos,L. Portuguesa,4,1
+59,Graus do adjetivo,L. Portuguesa,3,1,20177,Descobrindo os aumentativos e diminutivos,L. Portuguesa,2,1
+60,Quantas sílabas tem uma palavra?,L. Portuguesa,3,1,20231,Separação silábica,L. Portuguesa,3,1
+60,Quantas sílabas tem uma palavra?,L. Portuguesa,3,1,10025,Estrutura das sílabas,L. Portuguesa,2,1
+61,Dígrafos,L. Portuguesa,3,1,44,"Encontro Consonantal - gn, pc, pç, pn, ps, pt, tm",L. Portuguesa,3,1
+67,Decomposição numérica - até 100,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+67,Decomposição numérica - até 100,Matemática,2,1,10042,As centenas,Matemática,2,1
+67,Decomposição numérica - até 100,Matemática,2,1,20089,Composição e decomposição,Matemática,2,1
+67,Decomposição numérica - até 100,Matemática,2,1,50,Unidade e dezena,Matemática,1,1
+68,Valor absoluto e relativo,Matemática,3,1,20246,O milhar,Matemática,3,1
+68,Valor absoluto e relativo,Matemática,3,1,52,Números por extenso e comparações,Matemática,3,1
+68,Valor absoluto e relativo,Matemática,3,1,10027,Sistema de numeração decimal,Matemática,2,1
+68,Valor absoluto e relativo,Matemática,3,1,67,Decomposição numérica - até 100,Matemática,2,1
+71,Adição por reagrupamento,Matemática,3,1,68,Valor absoluto e relativo,Matemática,3,1
+71,Adição por reagrupamento,Matemática,3,1,20138,Material Dourado: Adição e Subtração,Matemática,2,1
+71,Adição por reagrupamento,Matemática,3,1,53,Adição,Matemática,2,1
+72,Sinais matemáticos,Matemática,3,1,20246,O milhar,Matemática,3,1
+73,Cálculo mental,Matemática,4,0,20095,Multiplicação com dois algarismos,Matemática,4,1
+73,Cálculo mental,Matemática,4,0,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+73,Cálculo mental,Matemática,4,0,24,Multiplicação,Matemática,3,1
+76,Representação decimal de números fracionários.,Matemática,5,1,28,Fração de uma quantidade,Matemática,5,1
+76,Representação decimal de números fracionários.,Matemática,5,1,20367,Representação fracionária dos números racionais,Matemática,5,1
+79,"Acentuação: agudo,circunflexo e til",L. Portuguesa,4,1,55,Acentuação: agudo e circunflexo,L. Portuguesa,3,1
+79,"Acentuação: agudo,circunflexo e til",L. Portuguesa,4,1,31,Sílabas tônica e átona,L. Portuguesa,3,1
+82,Sons do X,L. Portuguesa,5,1,10092,Fonema e letra,L. Portuguesa,5,0
+88,Sistema monetário,Matemática,1,1,20,Números no cotidiano,Matemática,1,1
+90,Bullying,L. Portuguesa,1,1,91,Sentimentos e Sensações,L. Portuguesa,1,1
+91,Sentimentos e Sensações,L. Portuguesa,1,1,98,Palavrinhas mágicas,L. Portuguesa,1,1
+96,Etapas da Vida,L. Portuguesa,1,1,86,Identidade,L. Portuguesa,1,1
+100,Educação Financeira - Contagem,Matemática,1,1,20,Números no cotidiano,Matemática,1,1
+100,Educação Financeira - Contagem,Matemática,1,1,88,Sistema monetário,Matemática,1,1
+117,Textos informativos e instrucionais,L. Portuguesa,2,1,6,Receitas e outras listas contextualizadas,L. Portuguesa,1,1
+117,Textos informativos e instrucionais,L. Portuguesa,2,1,106,Jogos com regras,L. Portuguesa,1,1
+121,Palavras pra que te quero,L. Portuguesa,2,1,10,Regularidades ortográficas,L. Portuguesa,2,1
+121,Palavras pra que te quero,L. Portuguesa,2,1,20762,Letra T,L. Portuguesa,1,1
+121,Palavras pra que te quero,L. Portuguesa,2,1,20760,Letra P,L. Portuguesa,1,1
+121,Palavras pra que te quero,L. Portuguesa,2,1,20761,Letra L - 20761,L. Portuguesa,1,1
+122,Educação Financeira - Adição,Matemática,2,1,10029,Educação Financeira - Conhecendo o sistema monetário,Matemática,2,1
+122,Educação Financeira - Adição,Matemática,2,1,20128,Educação Financeira - Valores de 1 a 50,Matemática,2,1
+122,Educação Financeira - Adição,Matemática,2,1,53,Adição,Matemática,2,1
+122,Educação Financeira - Adição,Matemática,2,1,100,Educação Financeira - Contagem,Matemática,1,1
+124,Educação Financeira - Conjuntos,Matemática,1,1,20,Números no cotidiano,Matemática,1,1
+128,Discurso direto e indireto,L. Portuguesa,4,1,20390,Pontuação - 4º ano,L. Portuguesa,4,1
+128,Discurso direto e indireto,L. Portuguesa,4,1,10008,Pontuação,L. Portuguesa,3,1
+142,"Encontros vocálicos: ditongo, tritongo e hiato",L. Portuguesa,4,0,20231,Separação silábica,L. Portuguesa,3,1
+10000,Substantivos biformes,L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+10002,Pronomes de tratamento,L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+10017,Educação Financeira - Subtração,Matemática,2,1,10029,Educação Financeira - Conhecendo o sistema monetário,Matemática,2,1
+10017,Educação Financeira - Subtração,Matemática,2,1,20128,Educação Financeira - Valores de 1 a 50,Matemática,2,1
+10017,Educação Financeira - Subtração,Matemática,2,1,100,Educação Financeira - Contagem,Matemática,1,1
+10018,As vogais,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+10024,Hábitos de higiene,Ciências,1,1,95,Corpo Humano,Ciências,1,1
+10025,Estrutura das sílabas,L. Portuguesa,2,1,20559,As sílabas por dentro das palavras,L. Portuguesa,1,1
+10025,Estrutura das sílabas,L. Portuguesa,2,1,20630,Sílabas e mais sílabas,L. Portuguesa,1,1
+10025,Estrutura das sílabas,L. Portuguesa,2,1,20769,Construindo o nome das coisas,L. Portuguesa,1,1
+10027,Sistema de numeração decimal,Matemática,2,1,10042,As centenas,Matemática,2,1
+10027,Sistema de numeração decimal,Matemática,2,1,41,Números naturais - 0 a 10,Matemática,1,1
+10027,Sistema de numeração decimal,Matemática,2,1,17,Números naturais - 0 a 50,Matemática,1,1
+10029,Educação Financeira - Conhecendo o sistema monetário,Matemática,2,1,88,Sistema monetário,Matemática,1,1
+10029,Educação Financeira - Conhecendo o sistema monetário,Matemática,2,1,100,Educação Financeira - Contagem,Matemática,1,1
+10030,Cordel,L. Portuguesa,4,1,10075,O poema e sua estrutura,L. Portuguesa,4,1
+10030,Cordel,L. Portuguesa,4,1,20200,"Poemas: rimas, versos e estrofes",L. Portuguesa,3,1
+10030,Cordel,L. Portuguesa,4,1,20110,Poemas: efeitos de sentido,L. Portuguesa,3,1
+10032,Uso de P e B,L. Portuguesa,3,1,54,Letras     F - V -  T - D - P -  B,L. Portuguesa,2,1
+10037,As consoantes,L. Portuguesa,1,1,10018,As vogais,L. Portuguesa,1,1
+10037,As consoantes,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+10042,As centenas,Matemática,2,1,41,Números naturais - 0 a 10,Matemática,1,1
+10042,As centenas,Matemática,2,1,17,Números naturais - 0 a 50,Matemática,1,1
+10043,"Sufixos: - oso/osa, - ez/eza, - ês/esa",L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+10046,Substantivos concretos e abstratos,L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+10055,Memória e História,História,5,1,20907,Formas de registro do tempo da história,História,5,1
+10055,Memória e História,História,5,1,20906,Marcos de memória: construção do patrimônio histórico,História,5,1
+10055,Memória e História,História,5,1,20912,Transformações nas trajetórias dos grupos humanos,História,4,1
+10075,O poema e sua estrutura,L. Portuguesa,4,1,20200,"Poemas: rimas, versos e estrofes",L. Portuguesa,3,1
+10075,O poema e sua estrutura,L. Portuguesa,4,1,20110,Poemas: efeitos de sentido,L. Portuguesa,3,1
+10076,Características dos animais,Ciências,3,1,20722,Observando os animais,Ciências,2,1
+10089,Antecessor e sucessor,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+10090,Sequências - 1° ano,Matemática,1,1,17,Números naturais - 0 a 50,Matemática,1,1
+10092,Fonema e letra,L. Portuguesa,5,0,30,Palavras com F/V - T/D - P/B - C/G,L. Portuguesa,4,1
+20085,Medidas de comprimento,Matemática,3,1,24,Multiplicação,Matemática,3,1
+20089,Composição e decomposição,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+20089,Composição e decomposição,Matemática,2,1,10042,As centenas,Matemática,2,1
+20089,Composição e decomposição,Matemática,2,1,50,Unidade e dezena,Matemática,1,1
+20093,"Oxítonas, paroxítonas e proparoxítonas",L. Portuguesa,5,1,79,"Acentuação: agudo,circunflexo e til",L. Portuguesa,4,1
+20095,Multiplicação com dois algarismos,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20099,Múltiplos,Matemática,4,1,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+20099,Múltiplos,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20099,Múltiplos,Matemática,4,1,73,Cálculo mental,Matemática,4,0
+20099,Múltiplos,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20108,"Situação problema - unidade, dezena e centena",Matemática,3,1,71,Adição por reagrupamento,Matemática,3,1
+20110,Poemas: efeitos de sentido,L. Portuguesa,3,1,20200,"Poemas: rimas, versos e estrofes",L. Portuguesa,3,1
+20110,Poemas: efeitos de sentido,L. Portuguesa,3,1,20714,Brincando com cantigas,L. Portuguesa,2,1
+20128,Educação Financeira - Valores de 1 a 50,Matemática,2,1,10029,Educação Financeira - Conhecendo o sistema monetário,Matemática,2,1
+20128,Educação Financeira - Valores de 1 a 50,Matemática,2,1,88,Sistema monetário,Matemática,1,1
+20128,Educação Financeira - Valores de 1 a 50,Matemática,2,1,100,Educação Financeira - Contagem,Matemática,1,1
+20129,Agrupamento de 10,Matemática,1,1,41,Números naturais - 0 a 10,Matemática,1,1
+20130,Usos do solo,Ciências,3,1,20700,Tipos de solo,Ciências,3,1
+20137,"Encontro Vocálico: Ditongo, Tritongo e Hiato",L. Portuguesa,4,1,20231,Separação silábica,L. Portuguesa,3,1
+20138,Material Dourado: Adição e Subtração,Matemática,2,1,20089,Composição e decomposição,Matemática,2,1
+20138,Material Dourado: Adição e Subtração,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+20138,Material Dourado: Adição e Subtração,Matemática,2,1,19,Descobrindo a adição,Matemática,1,1
+20138,Material Dourado: Adição e Subtração,Matemática,2,1,40,Subtração,Matemática,1,1
+20144,Nascer e crescer,Ciências,3,1,10076,Características dos animais,Ciências,3,1
+20144,Nascer e crescer,Ciências,3,1,20757,No mundo animal,Ciências,3,1
+20148,Cálculos com horas e minutos,Matemática,4,1,20247,Medidas de tempo,Matemática,3,1
+20168,A dezena de milhar,Matemática,4,1,20246,O milhar,Matemática,3,1
+20168,A dezena de milhar,Matemática,4,1,52,Números por extenso e comparações,Matemática,3,1
+20168,A dezena de milhar,Matemática,4,1,20288,Ordenação e comparação de números na reta numérica,Matemática,3,1
+20169,A centena de milhar - números de até 6 algarismos,Matemática,5,1,20168,A dezena de milhar,Matemática,4,1
+20171,Calculando preços,Matemática,4,1,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+20171,Calculando preços,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20171,Calculando preços,Matemática,4,1,73,Cálculo mental,Matemática,4,0
+20171,Calculando preços,Matemática,4,1,34,Divisão - Problemas,Matemática,4,1
+20171,Calculando preços,Matemática,4,1,20269,Divisão exata e não exata,Matemática,4,1
+20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1,24,Multiplicação,Matemática,3,1
+20187,Apólogo,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20187,Apólogo,L. Portuguesa,5,1,20431,Todo texto parte de uma ideia,L. Portuguesa,5,1
+20200,"Poemas: rimas, versos e estrofes",L. Portuguesa,3,1,20714,Brincando com cantigas,L. Portuguesa,2,1
+20201,Texto instrucional,L. Portuguesa,3,1,20298,Textos instrucionais: receitas,L. Portuguesa,3,1
+20221,"Tempos verbais - passado, presente e futuro.",L. Portuguesa,5,1,20424,Estudando concordância verbal,L. Portuguesa,5,1
+20221,"Tempos verbais - passado, presente e futuro.",L. Portuguesa,5,1,20184,Verbos - terminações am e ão,L. Portuguesa,4,1
+20231,Separação silábica,L. Portuguesa,3,1,10025,Estrutura das sílabas,L. Portuguesa,2,1
+20233,Conjugações verbais e verbos auxiliares,L. Portuguesa,4,1,20391,Concordância verbal,L. Portuguesa,4,1
+20234,Reforço de pontuação,L. Portuguesa,4,0,20390,Pontuação - 4º ano,L. Portuguesa,4,1
+20234,Reforço de pontuação,L. Portuguesa,4,0,10008,Pontuação,L. Portuguesa,3,1
+20235,Palavras com C e som de S (Ce e Ci),L. Portuguesa,4,1,20262,Família do C,L. Portuguesa,3,1
+20236,Preposições,L. Portuguesa,5,1,20219,Artigos,L. Portuguesa,4,1
+20237,Contos de fadas,L. Portuguesa,4,1,20422,Elementos da estrutura narrativa: lenda e fábula,L. Portuguesa,4,1
+20237,Contos de fadas,L. Portuguesa,4,1,20423,"Elementos da narrativa: lenda e fábula  (cenário, personagens, conflito gerador, resolução e foco)",L. Portuguesa,4,1
+20237,Contos de fadas,L. Portuguesa,4,1,20196,Sequência de fatos,L. Portuguesa,3,0
+20242,Medidas de capacidade e massa - na prática,Matemática,3,1,24,Multiplicação,Matemática,3,1
+20242,Medidas de capacidade e massa - na prática,Matemática,3,1,20250,Medidas de capacidade - cheio ou vazio?,Matemática,2,1
+20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1,24,Multiplicação,Matemática,3,1
+20244,Multiplicação - organização retangular,Matemática,2,1,53,Adição,Matemática,2,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,73,Cálculo mental,Matemática,4,0
+20245,Situações-problemas com as quatro operações,Matemática,4,1,34,Divisão - Problemas,Matemática,4,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,20269,Divisão exata e não exata,Matemática,4,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,71,Adição por reagrupamento,Matemática,3,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20245,Situações-problemas com as quatro operações,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20246,O milhar,Matemática,3,1,10042,As centenas,Matemática,2,1
+20246,O milhar,Matemática,3,1,10027,Sistema de numeração decimal,Matemática,2,1
+20248,Problemas em tabelas - dobro e triplo,Matemática,2,1,20244,Multiplicação - organização retangular,Matemática,2,1
+20249,Princípio multiplicativo de contagem,Matemática,5,1,20362,Multiplicação e divisão de números racionais,Matemática,5,1
+20249,Princípio multiplicativo de contagem,Matemática,5,1,73,Cálculo mental,Matemática,4,0
+20249,Princípio multiplicativo de contagem,Matemática,5,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20250,Medidas de capacidade - cheio ou vazio?,Matemática,2,1,10027,Sistema de numeração decimal,Matemática,2,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,73,Cálculo mental,Matemática,4,0
+20251,Multiplicação e Divisão na prática,Matemática,4,1,34,Divisão - Problemas,Matemática,4,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,20269,Divisão exata e não exata,Matemática,4,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,20266,Divisão por estimativas - cálculo mental,Matemática,4,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20251,Multiplicação e Divisão na prática,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20256,Multiplicação na reta numérica,Matemática,4,1,20181,"Multiplicação por 10, 100 e 1.000",Matemática,4,1
+20256,Multiplicação na reta numérica,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20256,Multiplicação na reta numérica,Matemática,4,1,73,Cálculo mental,Matemática,4,0
+20256,Multiplicação na reta numérica,Matemática,4,1,20099,Múltiplos,Matemática,4,1
+20256,Multiplicação na reta numérica,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20256,Multiplicação na reta numérica,Matemática,4,1,20288,Ordenação e comparação de números na reta numérica,Matemática,3,1
+20265,Conto de mistério e conto fantástico,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20265,Conto de mistério e conto fantástico,L. Portuguesa,5,1,20431,Todo texto parte de uma ideia,L. Portuguesa,5,1
+20266,Divisão por estimativas - cálculo mental,Matemática,4,1,20269,Divisão exata e não exata,Matemática,4,1
+20266,Divisão por estimativas - cálculo mental,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20269,Divisão exata e não exata,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20269,Divisão exata e não exata,Matemática,4,1,34,Divisão - Problemas,Matemática,4,1
+20269,Divisão exata e não exata,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20270,Operações inversas,Matemática,4,1,20251,Multiplicação e Divisão na prática,Matemática,4,1
+20270,Operações inversas,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20270,Operações inversas,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20287,Tipos de frases,L. Portuguesa,4,1,20101,Aposto e vocativo,L. Portuguesa,4,1
+20287,Tipos de frases,L. Portuguesa,4,1,20234,Reforço de pontuação,L. Portuguesa,4,0
+20287,Tipos de frases,L. Portuguesa,4,1,10008,Pontuação,L. Portuguesa,3,1
+20287,Tipos de frases,L. Portuguesa,4,1,20298,Textos instrucionais: receitas,L. Portuguesa,3,1
+20288,Ordenação e comparação de números na reta numérica,Matemática,3,1,20246,O milhar,Matemática,3,1
+20288,Ordenação e comparação de números na reta numérica,Matemática,3,1,10042,As centenas,Matemática,2,1
+20292,Verbos: Número – Singular e plural,L. Portuguesa,4,0,20391,Concordância verbal,L. Portuguesa,4,1
+20345,Textos instrucionais,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20345,Textos instrucionais,L. Portuguesa,5,1,20394,"Forma de composição do texto /  regra de jogo, tutorial, receita",L. Portuguesa,4,1
+20346,"O humor nos textos: anedotas, piadas e cartum",L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20346,"O humor nos textos: anedotas, piadas e cartum",L. Portuguesa,5,1,20431,Todo texto parte de uma ideia,L. Portuguesa,5,1
+20347,Textos da vida social e cotidiana,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20348,Elementos utilizados em quadrinhos e tirinhas,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20348,Elementos utilizados em quadrinhos e tirinhas,L. Portuguesa,5,1,20431,Todo texto parte de uma ideia,L. Portuguesa,5,1
+20348,Elementos utilizados em quadrinhos e tirinhas,L. Portuguesa,5,1,20413,Texto com ilustrações - manual de instruções,L. Portuguesa,4,0
+20350,O uso de sinônimos e pronomes,L. Portuguesa,5,1,20396,Pronomes pessoais e pronomes possessivos,L. Portuguesa,4,1
+20350,O uso de sinônimos e pronomes,L. Portuguesa,5,1,10002,Pronomes de tratamento,L. Portuguesa,4,1
+20352,Exercitando o uso da pontuação,L. Portuguesa,5,1,20390,Pontuação - 4º ano,L. Portuguesa,4,1
+20352,Exercitando o uso da pontuação,L. Portuguesa,5,1,20234,Reforço de pontuação,L. Portuguesa,4,0
+20361,Adição e subtração de números naturais e racionais,Matemática,5,1,20368,Frações equivalentes - Parte 1,Matemática,5,1
+20361,Adição e subtração de números naturais e racionais,Matemática,5,1,76,Representação decimal de números fracionários.,Matemática,5,1
+20362,Multiplicação e divisão de números racionais,Matemática,5,1,20368,Frações equivalentes - Parte 1,Matemática,5,1
+20362,Multiplicação e divisão de números racionais,Matemática,5,1,76,Representação decimal de números fracionários.,Matemática,5,1
+20362,Multiplicação e divisão de números racionais,Matemática,5,1,20245,Situações-problemas com as quatro operações,Matemática,4,1
+20363,Relações de igualdade e equivalência,Matemática,5,1,20245,Situações-problemas com as quatro operações,Matemática,4,1
+20364,Relações de igualdade e situações - problema,Matemática,5,1,20363,Relações de igualdade e equivalência,Matemática,5,1
+20364,Relações de igualdade e situações - problema,Matemática,5,1,20245,Situações-problemas com as quatro operações,Matemática,4,1
+20364,Relações de igualdade e situações - problema,Matemática,5,1,20251,Multiplicação e Divisão na prática,Matemática,4,1
+20364,Relações de igualdade e situações - problema,Matemática,5,1,20270,Operações inversas,Matemática,4,1
+20365,Figuras geométricas espaciais,Matemática,5,1,20366,Figuras geométricas planas,Matemática,5,1
+20365,Figuras geométricas espaciais,Matemática,5,1,20401,Prismas e pirâmides,Matemática,4,1
+20367,Representação fracionária dos números racionais,Matemática,5,1,28,Fração de uma quantidade,Matemática,5,1
+20367,Representação fracionária dos números racionais,Matemática,5,1,20152,Frações Unitárias,Matemática,4,1
+20368,Frações equivalentes - Parte 1,Matemática,5,1,20152,Frações Unitárias,Matemática,4,1
+20369,Representações fracionária e decimal,Matemática,5,1,20368,Frações equivalentes - Parte 1,Matemática,5,1
+20369,Representações fracionária e decimal,Matemática,5,1,76,Representação decimal de números fracionários.,Matemática,5,1
+20369,Representações fracionária e decimal,Matemática,5,1,28,Fração de uma quantidade,Matemática,5,1
+20369,Representações fracionária e decimal,Matemática,5,1,20367,Representação fracionária dos números racionais,Matemática,5,1
+20369,Representações fracionária e decimal,Matemática,5,1,20152,Frações Unitárias,Matemática,4,1
+20373,Trabalhando com grandezas e medidas,Matemática,5,1,20361,Adição e subtração de números naturais e racionais,Matemática,5,1
+20373,Trabalhando com grandezas e medidas,Matemática,5,1,20362,Multiplicação e divisão de números racionais,Matemática,5,1
+20373,Trabalhando com grandezas e medidas,Matemática,5,1,20148,Cálculos com horas e minutos,Matemática,4,1
+20373,Trabalhando com grandezas e medidas,Matemática,5,1,20464,Áreas de figuras em malhas quadriculadas,Matemática,4,1
+20373,Trabalhando com grandezas e medidas,Matemática,5,1,20465,Medidas de temperatura,Matemática,4,1
+20374,Problemas com perímetros e áreas,Matemática,5,1,20373,Trabalhando com grandezas e medidas,Matemática,5,1
+20374,Problemas com perímetros e áreas,Matemática,5,1,20464,Áreas de figuras em malhas quadriculadas,Matemática,4,1
+20376,Cálculo da probabilidade em eventos aleatórios,Matemática,5,1,20367,Representação fracionária dos números racionais,Matemática,5,1
+20376,Cálculo da probabilidade em eventos aleatórios,Matemática,5,1,20467,Análise de chances de eventos aleatórios,Matemática,4,1
+20388,Ditongo,L. Portuguesa,4,1,20137,"Encontro Vocálico: Ditongo, Tritongo e Hiato",L. Portuguesa,4,1
+20388,Ditongo,L. Portuguesa,4,1,142,"Encontros vocálicos: ditongo, tritongo e hiato",L. Portuguesa,4,0
+20388,Ditongo,L. Portuguesa,4,1,20231,Separação silábica,L. Portuguesa,3,1
+20390,Pontuação - 4º ano,L. Portuguesa,4,1,20101,Aposto e vocativo,L. Portuguesa,4,1
+20390,Pontuação - 4º ano,L. Portuguesa,4,1,10008,Pontuação,L. Portuguesa,3,1
+20391,Concordância verbal,L. Portuguesa,4,1,20091,Verbos de enunciação no discurso direto e indireto,L. Portuguesa,4,1
+20393,Concordância nominal,L. Portuguesa,4,1,10000,Substantivos biformes,L. Portuguesa,4,1
+20393,Concordância nominal,L. Portuguesa,4,1,20219,Artigos,L. Portuguesa,4,1
+20394,"Forma de composição do texto /  regra de jogo, tutorial, receita",L. Portuguesa,4,1,20298,Textos instrucionais: receitas,L. Portuguesa,3,1
+20394,"Forma de composição do texto /  regra de jogo, tutorial, receita",L. Portuguesa,4,1,20201,Texto instrucional,L. Portuguesa,3,1
+20399,Grandezas diretamente proporcionais,Matemática,5,1,20367,Representação fracionária dos números racionais,Matemática,5,1
+20399,Grandezas diretamente proporcionais,Matemática,5,1,20362,Multiplicação e divisão de números racionais,Matemática,5,1
+20399,Grandezas diretamente proporcionais,Matemática,5,1,20269,Divisão exata e não exata,Matemática,4,1
+20399,Grandezas diretamente proporcionais,Matemática,5,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20400,Operações fundamentais com números naturais,Matemática,4,1,20462,Propriedades da igualdade,Matemática,4,1
+20400,Operações fundamentais com números naturais,Matemática,4,1,71,Adição por reagrupamento,Matemática,3,1
+20400,Operações fundamentais com números naturais,Matemática,4,1,24,Multiplicação,Matemática,3,1
+20400,Operações fundamentais com números naturais,Matemática,4,1,20243,Divisão: Situações problemas com agrupamentos,Matemática,3,1
+20411,Forma de composição de textos dramáticos,L. Portuguesa,4,1,20421,Textos Dramáticos - 4º ano,L. Portuguesa,4,1
+20415,Ideia central do texto: lenda e fábula,L. Portuguesa,4,1,20422,Elementos da estrutura narrativa: lenda e fábula,L. Portuguesa,4,1
+20415,Ideia central do texto: lenda e fábula,L. Portuguesa,4,1,20196,Sequência de fatos,L. Portuguesa,3,0
+20422,Elementos da estrutura narrativa: lenda e fábula,L. Portuguesa,4,1,20196,Sequência de fatos,L. Portuguesa,3,0
+20423,"Elementos da narrativa: lenda e fábula  (cenário, personagens, conflito gerador, resolução e foco)",L. Portuguesa,4,1,20196,Sequência de fatos,L. Portuguesa,3,0
+20424,Estudando concordância verbal,L. Portuguesa,5,1,20391,Concordância verbal,L. Portuguesa,4,1
+20424,Estudando concordância verbal,L. Portuguesa,5,1,20292,Verbos: Número – Singular e plural,L. Portuguesa,4,0
+20424,Estudando concordância verbal,L. Portuguesa,5,1,20233,Conjugações verbais e verbos auxiliares,L. Portuguesa,4,1
+20425,"Palavras primitivas, derivadas e compostas",L. Portuguesa,5,1,10043,"Sufixos: - oso/osa, - ez/eza, - ês/esa",L. Portuguesa,4,1
+20425,"Palavras primitivas, derivadas e compostas",L. Portuguesa,5,1,46,Substantivos primitivos e derivados,L. Portuguesa,4,1
+20431,Todo texto parte de uma ideia,L. Portuguesa,5,1,20787,Interpretando textos,L. Portuguesa,5,1
+20431,Todo texto parte de uma ideia,L. Portuguesa,5,1,20415,Ideia central do texto: lenda e fábula,L. Portuguesa,4,1
+20461,Números racionais e o Sistema Monetário,Matemática,4,1,20779,Fração de uma quantidade,Matemática,4,1
+20461,Números racionais e o Sistema Monetário,Matemática,4,1,20152,Frações Unitárias,Matemática,4,1
+20462,Propriedades da igualdade,Matemática,4,1,71,Adição por reagrupamento,Matemática,3,1
+20464,Áreas de figuras em malhas quadriculadas,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20464,Áreas de figuras em malhas quadriculadas,Matemática,4,1,70,Trajeto em malha quadriculada,Matemática,3,1
+20468,Tratamento dos dados de pesquisa,Matemática,4,1,10007,Estatística,Matemática,4,1
+20559,As sílabas por dentro das palavras,L. Portuguesa,1,1,20630,Sílabas e mais sílabas,L. Portuguesa,1,1
+20559,As sílabas por dentro das palavras,L. Portuguesa,1,1,20769,Construindo o nome das coisas,L. Portuguesa,1,1
+20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1,10018,As vogais,L. Portuguesa,1,1
+20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+20630,Sílabas e mais sílabas,L. Portuguesa,1,1,20769,Construindo o nome das coisas,L. Portuguesa,1,1
+20639,Explorando textos: leitura e interpretação,L. Portuguesa,2,1,20635,Elementos da narrativa,L. Portuguesa,1,1
+20697,"Luzes, cores, ação!",Ciências,3,1,20725,Fontes de luz e calor,Ciências,2,1
+20698,Cuidando dos sentidos: Audição e Visão,Ciências,3,1,20701,Que som é esse?,Ciências,3,1
+20698,Cuidando dos sentidos: Audição e Visão,Ciências,3,1,20697,"Luzes, cores, ação!",Ciências,3,1
+20699,Observatório espacial,Ciências,3,1,10038,O planeta onde vivemos,Ciências,3,1
+20704,As relações ecológicas,Ciências,4,1,20757,No mundo animal,Ciências,3,1
+20705,A energia da natureza,Ciências,4,1,20704,As relações ecológicas,Ciências,4,1
+20705,A energia da natureza,Ciências,4,1,20757,No mundo animal,Ciências,3,1
+20719,O Universo em movimento,Ciências,5,1,20718,Observando os corpos celestes,Ciências,5,1
+20719,O Universo em movimento,Ciências,5,1,20707,"Coordenadas, calendários e relógios",Ciências,4,1
+20720,De que as coisas são feitas?,Ciências,2,1,20901,Diversidade de materiais,Ciências,1,1
+20721,Segurança em primeiro lugar,Ciências,2,1,95,Corpo Humano,Ciências,1,1
+20725,Fontes de luz e calor,Ciências,2,1,20720,De que as coisas são feitas?,Ciências,2,1
+20751,Localização e coordenadas,Matemática,5,1,20750,Sistemas de Coordenadas,Matemática,5,1
+20754,Congruência e proporcionalidade geométrica,Matemática,5,1,20366,Figuras geométricas planas,Matemática,5,1
+20757,No mundo animal,Ciências,3,1,10076,Características dos animais,Ciências,3,1
+20757,No mundo animal,Ciências,3,1,20722,Observando os animais,Ciências,2,1
+20760,Letra P,L. Portuguesa,1,1,20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1
+20760,Letra P,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+20760,Letra P,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+20761,Letra L - 20761,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+20761,Letra L - 20761,L. Portuguesa,1,1,20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1
+20761,Letra L - 20761,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+20762,Letra T,L. Portuguesa,1,1,20629,Você realmente conhece o alfabeto?,L. Portuguesa,1,1
+20762,Letra T,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+20762,Letra T,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+20768,Descobrindo sons iniciais,L. Portuguesa,1,1,10018,As vogais,L. Portuguesa,1,1
+20768,Descobrindo sons iniciais,L. Portuguesa,1,1,10037,As consoantes,L. Portuguesa,1,1
+20768,Descobrindo sons iniciais,L. Portuguesa,1,1,20760,Letra P,L. Portuguesa,1,1
+20768,Descobrindo sons iniciais,L. Portuguesa,1,1,20762,Letra T,L. Portuguesa,1,1
+20768,Descobrindo sons iniciais,L. Portuguesa,1,1,20759,"Alfabeto - sons, letras e ordem",L. Portuguesa,1,1
+20779,Fração de uma quantidade,Matemática,4,1,20152,Frações Unitárias,Matemática,4,1
+20779,Fração de uma quantidade,Matemática,4,1,20095,Multiplicação com dois algarismos,Matemática,4,1
+20779,Fração de uma quantidade,Matemática,4,1,20269,Divisão exata e não exata,Matemática,4,1
+20780,Coleções,Matemática,2,1,10042,As centenas,Matemática,2,1
+20780,Coleções,Matemática,2,1,18,Coleções - 0 a 20,Matemática,1,1
+20780,Coleções,Matemática,2,1,17,Números naturais - 0 a 50,Matemática,1,1
+20780,Coleções,Matemática,2,1,20129,Agrupamento de 10,Matemática,1,1
+20782,Sequências - Uma introdução,Matemática,2,1,10042,As centenas,Matemática,2,1
+20782,Sequências - Uma introdução,Matemática,2,1,21,Formas geométricas,Matemática,2,1
+20782,Sequências - Uma introdução,Matemática,2,1,10090,Sequências - 1° ano,Matemática,1,1
+20842,Qualidade ambiental,Geografia,5,1,20847,Tipos de energia e produções,Geografia,5,1
+20843,Diferenças da população brasileira,Geografia,5,1,20848,Brasil - diversidade cultural,Geografia,4,1
+20844,O espaço urbano e suas funções,Geografia,5,1,20846,Conexões e interações entre cidades,Geografia,5,1
+20845,Conexões entre o campo e a cidade,Geografia,5,1,20851,Campo e cidade: interdependência,Geografia,4,1
+20846,Conexões e interações entre cidades,Geografia,5,1,20845,Conexões entre o campo e a cidade,Geografia,5,1
+20846,Conexões e interações entre cidades,Geografia,5,1,20852,O Brasil e suas divisões,Geografia,4,1
+20848,Brasil - diversidade cultural,Geografia,4,1,20880,Diferentes modos de vida,Geografia,3,1
+20849,Constituição do povo brasileiro,Geografia,4,1,20848,Brasil - diversidade cultural,Geografia,4,1
+20850,Órgãos Municipais,Geografia,4,1,20852,O Brasil e suas divisões,Geografia,4,1
+20853,Trabalho no campo e na cidade,Geografia,4,1,20851,Campo e cidade: interdependência,Geografia,4,1
+20877,As mudanças na paisagem,Geografia,2,1,20876,Comunidade e natureza,Geografia,2,1
+20879,Usos da água e do solo,Geografia,2,1,20878,Atividades extrativas,Geografia,2,1
+20880,Diferentes modos de vida,Geografia,3,1,20876,Comunidade e natureza,Geografia,2,1
+20881,Paisagens em transformação,Geografia,3,1,20882,Matéria-prima e indústria,Geografia,3,1
+20881,Paisagens em transformação,Geografia,3,1,20877,As mudanças na paisagem,Geografia,2,1
+20882,Matéria-prima e indústria,Geografia,3,1,20878,Atividades extrativas,Geografia,2,1
+20884,Usos e reúsos da água,Geografia,3,1,20879,Usos da água e do solo,Geografia,2,1
+20885,Água e Energia,Geografia,3,1,20884,Usos e reúsos da água,Geografia,3,1
+20886,Impactos ambientais,Geografia,3,1,20883,"Produção, circulação e consumo",Geografia,3,1
+20902,Somos todos diferentes,Ciências,1,1,95,Corpo Humano,Ciências,1,1
+20903,Formação cultural de um povo,História,5,1,20904,Como se constrói um Estado?,História,5,1
+20903,Formação cultural de um povo,História,5,1,20911,Mudanças ao longo do tempo,História,4,1
+20905,As diferentes linguagens que contam a história,História,5,1,20906,Marcos de memória: construção do patrimônio histórico,História,5,1
+20905,As diferentes linguagens que contam a história,História,5,1,10055,Memória e História,História,5,1
+20906,Marcos de memória: construção do patrimônio histórico,História,5,1,20912,Transformações nas trajetórias dos grupos humanos,História,4,1
+20908,"Vida cotidiana - pontos de vista, linguagens e culturas",História,5,1,20934,Povos e culturas: meu lugar no mundo e meu grupo social,História,5,1
+20910,O que fazemos de dia e o que fazemos à noite?,Ciências,1,1,20909,O tempo de cada dia,Ciências,1,1
+20912,Transformações nas trajetórias dos grupos humanos,História,4,1,20911,Mudanças ao longo do tempo,História,4,1
+20913,As cidades - mudanças ao longo do tempo,História,4,1,20914,Comunidades nômades do passado e do presente,História,4,1
+20913,As cidades - mudanças ao longo do tempo,História,4,1,20933,O que há de migrante em mim?,História,3,1
+20914,Comunidades nômades do passado e do presente,História,4,1,20912,Transformações nas trajetórias dos grupos humanos,História,4,1
+20924,Registrando histórias locais,História,2,1,20932,Caixa das memórias: reviver a história,História,1,1
+20925,Os objetos têm história?,História,2,1,20922,Registros e memórias,História,2,1
+20927,As formas de trabalho e os seus impactos na natureza,História,2,1,20926,O trabalho na nossa comunidade,História,2,1
+20928,Família e comunidade: muitas histórias,História,1,1,20932,Caixa das memórias: reviver a história,História,1,1
+20929,Eu e o mundo ao meu redor,História,1,1,20928,Família e comunidade: muitas histórias,História,1,1
+20934,Povos e culturas: meu lugar no mundo e meu grupo social,História,5,1,20903,Formação cultural de um povo,História,5,1
+20937,A comunidade e seus registros,História,2,1,20922,Registros e memórias,História,2,1
+20937,A comunidade e seus registros,História,2,1,20925,Os objetos têm história?,História,2,1
+20943,Cada um na família tem o seu papel,História,1,1,20942,Os espaços sociais e suas regras,História,1,1
+20944,Trabalhando a localização e os pontos de referência,Geografia,2,1,20870,Pontos de referência: o corpo em ação,Geografia,1,1
+20945,Migrações: o deslocamento de pessoas nos lugares,Geografia,5,1,20843,Diferenças da população brasileira,Geografia,5,1
